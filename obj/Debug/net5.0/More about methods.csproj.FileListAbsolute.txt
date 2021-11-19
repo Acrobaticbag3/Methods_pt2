@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.exe
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.deps.json
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.runtimeconfig.json
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.dll
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\ref\More about methods.dll
+C:\Users\Admin\Desktop\More about methods\bin\Debug\net5.0\More about methods.pdb
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.AssemblyInfo.cs
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.dll
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\ref\More about methods.dll
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.pdb
+C:\Users\Admin\Desktop\More about methods\obj\Debug\net5.0\More about methods.genruntimeconfig.cache
